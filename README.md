@@ -27,10 +27,14 @@ The user interacts with the app  by entering their **job title, preferred locati
 
 **The system returns job listings**
 
-Users can review job offers, read descriptions, and click on job links for more details.
+- Users can review job offers, read descriptions, and click on job links for more details.
 
 <p align="center">
   <img src="Images/PHOTO3.png" alt="Job Search Assistant UI" width="80%">
 </p>
 
-
+### **Step 2: Save Preferred Job and Requests Description**
+- The user selects the job offer they like the most.
+<p align="center">
+  <img src="Images/PHOTO4.png" alt="Job Search Assistant UI" width="80%">
+</p>
