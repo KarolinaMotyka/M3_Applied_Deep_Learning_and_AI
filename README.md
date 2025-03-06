@@ -67,7 +67,6 @@ The user interacts with the app  by entering their **job title, preferred locati
 <p align="center">
   <img src="Images/PHOTO7.png" alt="Job Search Assistant UI" width="80%">
 </p>
----
 
 ## **Conclusion**
 
