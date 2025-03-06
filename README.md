@@ -20,12 +20,12 @@ The system provides a seamless and intelligent job application process, helping 
 
 ### **Step 1: User Inputs Resume & Job Preference**
 The user interacts with the app  by entering their **job title, preferred location**, and the **number of job results** they wish to retrieve.
-#### Example UI:
+
 <p align="center">
   <img src="Images/PHOTO1.png" alt="Job Search Assistant UI" width="80%">
 </p>
 
-![Job Search Assistant UI](images/Screenshot%202025-03-06%20at%2015.48.41.png)
+**The system returns job listings**
+Users can review job offers, read descriptions, and click on job links for more details.
 
 
-![Opis zdjęcia](Images/Screenshot 2025-03-06 at 15.48.41.png)
