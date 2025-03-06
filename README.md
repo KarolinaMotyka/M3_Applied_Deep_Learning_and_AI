@@ -73,9 +73,9 @@ The user interacts with the app  by entering their **job title, preferred locati
 
 This project enhances the job search process by integrating AI-powered job search tools, advanced resume analysis, and comprehensive market insights. It enables users to efficiently identify relevant career opportunities, gain a deeper understanding of job expectations, and refine their resumes to increase their competitiveness in the job market
 
----
 
 ## **Contributors**
 
 Karolina Motyka
+
 Thi Minh Nguyen
