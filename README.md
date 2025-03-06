@@ -56,3 +56,14 @@ The user interacts with the app  by entering their **job title, preferred locati
 <p align="center">
   <img src="Images/PHOTO6.png" alt="Job Search Assistant UI" width="80%">
 </p>
+
+### **Step 4: Resume Evaluation Results**
+- The system evaluates the user's resume and assigns an **overall score** based on job fit.
+- A **match assessment** highlights how well the resume aligns with the job description.
+- **Strengths and weaknesses** are identified, focusing on technical skills, industry experience, and certifications.
+- **ATS Optimization Tips** suggest improvements in formatting, keywords, and skill section enhancements.
+- **Personalized improvement recommendations** help the user tailor their resume for better alignment with the desired job role.
+- The user can download a complete report with detailed insights for further optimization.
+<p align="center">
+  <img src="Images/PHOTO7.png" alt="Job Search Assistant UI" width="80%">
+</p>
