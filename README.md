@@ -41,3 +41,18 @@ The user interacts with the app  by entering their **job title, preferred locati
 <p align="center">
   <img src="Images/PHOTO4.png" alt="Job Search Assistant UI" width="80%">
 </p>
+
+### **Step 3: Upload Resume for Evaluation**
+- The user uploads their resume in PDF format.
+- The system processes the resume and saved job description and begins analyzing it.
+
+<p align="center">
+  <img src="Images/PHOTO5.png" alt="Job Search Assistant UI" width="80%">
+</p>
+
+- The system generates a **comprehensive job requirements analysis** for the selected position.
+- This includes required **technical skills, education, experience levels, soft skills, and industry-specific knowledge**.
+  
+<p align="center">
+  <img src="Images/PHOTO6.png" alt="Job Search Assistant UI" width="80%">
+</p>
