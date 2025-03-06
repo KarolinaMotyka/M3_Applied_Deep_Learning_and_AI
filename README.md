@@ -20,4 +20,4 @@ The system provides a seamless and intelligent job application process, helping 
 
 ### **Step 1: User Inputs Resume & Job Preference**
 The user interacts with the app  by entering their **job title, preferred location**, and the **number of job results** they wish to retrieve.
-![Opis zdjęcia](https://github.com/KarolinaMotyka/M3_Final_Assignment/issues/1#issue-2900643538)
+![Opis zdjęcia](Images/Screenshot 2025-03-06 at 15.48.41.png)
