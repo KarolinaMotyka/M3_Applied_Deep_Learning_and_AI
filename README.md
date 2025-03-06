@@ -28,4 +28,8 @@ The user interacts with the app  by entering their **job title, preferred locati
 **The system returns job listings**
 Users can review job offers, read descriptions, and click on job links for more details.
 
+<p align="center">
+  <img src="Images/PHOTO2.png" alt="Job Search Assistant UI" width="80%">
+</p>
+
 
