@@ -63,4 +63,6 @@ To find the best configuration, we tested different combinations of:
 
 ## Contributors
 **Karolina Motyka** 
+
+
 **Thi Minh Nguyen**
