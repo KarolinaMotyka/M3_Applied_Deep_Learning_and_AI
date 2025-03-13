@@ -62,6 +62,5 @@ To find the best configuration, we tested different combinations of:
 ---
 
 ## Contributors
-**Karolina Motyka**: Responsible for data selection, testing transformer models, fine-tuning the model, testing different hyperparameters, model evaluation, and writing the final documentation.
-
-**Thi Minh Nguyen**: Responsible for dataset selection, testing transformer models, fine-tuning using distilbert, documenting the training process, experimenting with different hyperparameters, evaluating the model, pushing model to fh
+**Karolina Motyka** 
+**Thi Minh Nguyen**
