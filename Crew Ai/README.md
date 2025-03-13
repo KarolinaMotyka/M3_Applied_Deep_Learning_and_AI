@@ -22,8 +22,9 @@ The system provides a seamless and intelligent job application process, helping 
 The user interacts with the app  by entering their **job title, preferred location**, and the **number of job results** they wish to retrieve.
 
 <p align="center">
-  <img src="Images/PHOTO1.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO1.png" alt="Job Search Assistant UI" width="80%">
 </p>
+
 
 **The system returns job listings**
 
