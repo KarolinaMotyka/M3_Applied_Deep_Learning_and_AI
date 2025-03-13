@@ -16,9 +16,3 @@ We used an RNN-based model with the following layers:
 - **Fully Connected Layer:** Outputs the predicted closing price.
 - **Loss Function:** Mean Squared Error (MSE).
 - **Optimizer:** Adam optimizer
-
-
-## Contributors:
-- **Thi Minh Nguyen:** Responsible for the implementation of the RNN model, feature engineering, and training the model. Evaluate and plot the results.
-- **Karolina Motyka:** Perform data exploration & preprocessing, and tuning hyperparameters to optimize the RNN model’s performance. Giving explaination on the result.
-- **Anzuman Ara:** Helped with data exploration. Wrote the final documentation and summary of results.
