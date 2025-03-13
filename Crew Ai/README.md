@@ -31,16 +31,17 @@ The user interacts with the app  by entering their **job title, preferred locati
 - Users can review job offers, read descriptions, and click on job links for more details.
 
 <p align="center">
-  <img src="Images/PHOTO2.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO2.png" alt="Job Search Assistant UI" width="80%">
 </p>
+
 <p align="center">
-  <img src="Images/PHOTO3.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO3.png" alt="Job Search Assistant UI" width="80%">
 </p>
 
 ### **Step 2: Save Preferred Job and Requests Description**
 - The user selects the job offer they like the most.
 <p align="center">
-  <img src="Images/PHOTO4.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO4.png" alt="Job Search Assistant UI" width="80%">
 </p>
 
 ### **Step 3: Upload Resume for Evaluation**
@@ -48,16 +49,15 @@ The user interacts with the app  by entering their **job title, preferred locati
 - The system processes the resume and saved job description and begins analyzing it.
 
 <p align="center">
-  <img src="Images/PHOTO5.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO5.png" alt="Job Search Assistant UI" width="80%">
 </p>
 
 - The system generates a **comprehensive job requirements analysis** for the selected position.
 - This includes required **technical skills, education, experience levels, soft skills, and industry-specific knowledge**.
   
 <p align="center">
-  <img src="Images/PHOTO6.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO6.png" alt="Job Search Assistant UI" width="80%">
 </p>
-
 ### **Step 4: Resume Evaluation Results**
 - The system evaluates the user's resume and assigns an **overall score** based on job fit.
 - A **match assessment** highlights how well the resume aligns with the job description.
@@ -66,7 +66,7 @@ The user interacts with the app  by entering their **job title, preferred locati
 - **Personalized improvement recommendations** help the user tailor their resume for better alignment with the desired job role.
 - The user can download a complete report with detailed insights for further optimization.
 <p align="center">
-  <img src="Images/PHOTO7.png" alt="Job Search Assistant UI" width="80%">
+  <img src="../Images/PHOTO7.png" alt="Job Search Assistant UI" width="80%">
 </p>
 
 ## **Conclusion**
